@@ -1,8 +1,10 @@
 # 📌 [News](./Log/News.md#news)
 
-# 安装docker 安装2.10.13青龙+青龙端口更改（可选）+CK提交版Ninja（可选）
+## 安装docker 安装2.10.13青龙+青龙端口更改（可选）+CK提交版Ninja（可选）
 
-```wget -q https://raw.githubusercontents.com/lauboom/VIP/main/Scripts/sh/ql.sh -O ql.sh && bash ql.sh```
+```
+wget -q https://raw.githubusercontents.com/lauboom/VIP/main/Scripts/sh/ql.sh -O ql.sh && bash ql.sh
+```
 
 
 
